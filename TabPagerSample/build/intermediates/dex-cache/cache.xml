@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\syo\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-d30bef3988b9b1064c307bcd72c38ed7759ed358.jar" />
+    </item>
+    <item
+        jar="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\pre-dexed\debug\classes-e57d016c08291bf025ee6214dee92ea3d99dfe9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\libs\jsoup-1.8.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="580e4dd2a6125cc4037450b40623ac6a552c11df">
+        <dex dex="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\pre-dexed\debug\jsoup-1.8.2-57ae686355107cb7781bf597ccb528e413f96c83.jar" />
+    </item>
+    <item
+        jar="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-10a85014a5156b71332c8a56aac591c7d31e5341.jar" />
+    </item>
+    <item
+        jar="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\pre-dexed\debug\classes-6fc3525ae3f835b4e81e0326fd7d32be0d7bf7b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\syo\AndroidStudioProjects\ELPIS\user3_test\TabPagerSample\app\build\intermediates\pre-dexed\debug\classes-aab253c2bb9d911775012f0c3cc541f41b68c4cc.jar" />
+    </item>
+
+</items>
